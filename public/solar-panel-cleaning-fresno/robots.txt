@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fresno-ca-93722.onrender.com/sitemap.xml
+Sitemap: https://fresno-ca-93722.onrender.com/solar-panel-cleaning-fresno/sitemap.xml
