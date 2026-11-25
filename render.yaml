@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fresno-ca-93722
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
